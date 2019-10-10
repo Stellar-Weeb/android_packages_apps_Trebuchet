@@ -179,4 +179,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Show dock search widget -->
     <string name="dock_search_title">Google search bar</string>
     <string name="dock_search_summary">Show search bar in the bottom dock</string>
+
+    <!-- About info -->
+    <string name="about_trebuchet_title" translatable="false">Trebuchet+</string>
+    <string name="about_trebuchet_summary">Trebuchet+ is a customized launcher based on crDroid\'s Trebuchet fork crDroid Home and ProjectSakura\'s Trebuchet+</string>
+    <string name="about_thanks_cat">Special thanks to</string>
+    <string name="about">About</string>
+    <string name="about_summary">Info about the launcher</string>
+    <string name="about_app_version">Version</string>
+    <string name="about_app_version_summary">1.0</string>
+
 </resources>
